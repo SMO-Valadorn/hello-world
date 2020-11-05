@@ -1,4 +1,2 @@
-# hello-world
-Just another repository
-
-Yay! I'm learning! :P
+# And so, it begins...
+This is my first repository, I use it to save some images :D
